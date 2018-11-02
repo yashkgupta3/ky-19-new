@@ -544,7 +544,7 @@ iframe {
 aside {
   position: absolute;
   padding-top:8vh;
-  width: 400px;
+  width: 120px;
   height: 100%;
   background: #383838;
   left: 0;
@@ -561,10 +561,10 @@ aside::before {
 }
 aside a {
   display: block;
-  padding: 3vh ;
+  padding: 2vh ;
   text-decoration: none;
-  font-size: 20px;
-  font-weight: 800;
+  font-size: 16px;
+  font-weight: 500;
   font-family: 'Montserrat', sans-serif;
   color: #818181;
   border-bottom: 1px solid #414141;
@@ -572,7 +572,7 @@ aside a {
 .toggle-wrap {
   padding: 10px;
   position: absolute;
-  top: 0%; bottom: 0;
+  top: 5%;
   left: 1%;
   margin: auto;
   z-index: 99;
