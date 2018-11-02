@@ -260,6 +260,7 @@ h1 {
 	display:block;
 	position: absolute;
 	bottom: 0;
+	width: 100%;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
@@ -652,7 +653,7 @@ aside a {
   align-items: center;
   align-content: center;
   justify-content: center;
-  height: 70%;
+  height: 65%;
   width: 70%;
   padding: 0;
 }
