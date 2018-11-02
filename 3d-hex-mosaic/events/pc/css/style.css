@@ -118,8 +118,8 @@ body {
   color: #FFA0A0;
 }
 .skw-page-1 .skw-page__half--left .skw-page__content {
-  background-image: url("1.jpg");
-  background-size:102% 107%;
+  background-image: url("1_.jpg");
+  
 }
 .skw-page-1 .skw-page__half--right .skw-page__content {
   background: #292929;
@@ -128,10 +128,10 @@ body {
   background: #292929;
 }
 .skw-page-2 .skw-page__half--right .skw-page__content {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/slider-2.jpg");
+  background-image: url("2.jpg");
 }
 .skw-page-3 .skw-page__half--left .skw-page__content {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/mousover-img-2.jpg");
+  background-image: url("3.jpg");
 }
 .skw-page-3 .skw-page__half--right .skw-page__content {
   background: #292929;
@@ -140,10 +140,10 @@ body {
   background: #292929;
 }
 .skw-page-4 .skw-page__half--right .skw-page__content {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/sections-3.jpg");
+  background-image: url("4.jpg");
 }
 .skw-page-5 .skw-page__half--left .skw-page__content {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/img-test.jpg");
+  background-image: url("5.jpg");
 }
 .skw-page-5 .skw-page__half--right .skw-page__content {
   background: #292929;
@@ -154,11 +154,11 @@ body {
   background: #292929;
 }
 .skw-page-6 .skw-page__half--right .skw-page__content {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/sections-3.jpg");
+  background-image: url("6.jpg");
 }
 
 .skw-page-7 .skw-page__half--left .skw-page__content {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/mousover-img-2.jpg");
+  background-image: url("7.jpg");
 }
 .skw-page-7 .skw-page__half--right .skw-page__content {
   background: #292929;
@@ -168,7 +168,7 @@ body {
   background: #292929;
 }
 .skw-page-8 .skw-page__half--right .skw-page__content {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/sections-3.jpg");
+  background-image: url("8.jpg");
 }
 
 
