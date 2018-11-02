@@ -2,52 +2,60 @@
 COLORS
 *****************************/
 section:nth-child(1) {
-	background:white;
+	background: #292929;
   background-image: url(1.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }
 
 section:nth-child(2) {
-  background: #EFD9CE;
+  background: #292929;
     background-image: url(2.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }
 
 section:nth-child(3) {
-  background: #DEC0F1;
+  background: #292929;
     background-image: url(3.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }
 
 section:nth-child(4) {
-  background: #B79CED;
+  background: #292929;
     background-image: url(4.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }
 section:nth-child(5) {
-  background:#957FEF;
+  background: #292929;
     background-image: url(5.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }section:nth-child(6) {
-  background: green;
+  background: #292929;
     background-image: url(6.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }section:nth-child(7) {
-  background: yellow;
+  background: #292929;
     background-image: url(7.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }section:nth-child(8) {
-  background: red;
+  background: #292929;
     background-image: url(8.jpg);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size: 100% 45%;
+  color: white;
 }
 
 body {
@@ -56,7 +64,7 @@ body {
   left:0px;
   top:0px;
   overflow: hidden;
-  color: #fff;
+  color: white;
   transition: opacity 400ms;
   background-color: black;
 }
@@ -182,6 +190,7 @@ body.disabled-onepage-scroll, .disabled-onepage-scroll .onepage-wrapper, html {
 
 h1{
 	/*padding-top:46vh;*/
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 padding-top:46vh;
 font-size:700%;
 	font-family: 'Montserrat', sans-serif;

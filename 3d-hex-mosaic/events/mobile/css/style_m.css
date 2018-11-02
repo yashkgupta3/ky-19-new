@@ -16,15 +16,13 @@ html,body {
 nav {
   padding: 2vh;
   position: fixed;
-  background: #4DEB5A;
+  background: #292929;
   z-index: 999;
   width:100%;
-  font-size:28px;
+  font-size:38px;
+	color: white;
 }
 
-nav h1{
-  font-size: 25px;	
-}
 
 nav::after {
   content: "";
@@ -89,17 +87,16 @@ aside a {
 }
 .toggle-bar {
 	width: 38px;
-	
 	margin: 10px 0;
 	position: relative;
-	border-top: 6px solid #303030;
+	border-top: 6px solid white;
 	display: block;
 }
 .toggle-bar::before,
 .toggle-bar::after {
 	content: "";
 	display: block;
-	background: #303030;
+	background: white;
 	height: 6px;
 	width: 38px;
 	position: absolute;
