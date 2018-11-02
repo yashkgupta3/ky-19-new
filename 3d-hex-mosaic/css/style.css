@@ -25,7 +25,7 @@ html {
   background-color: transparent;
   color: white;
   text-align: center;
-  border: solid white 1px;
+
  
 }
 
@@ -572,9 +572,11 @@ aside a {
 .toggle-wrap {
   padding: 10px;
   position: absolute;
-  top: 5%;
+  top: 0%; bottom: 0;
   left: 1%;
+  margin: auto;
   z-index: 99;
+  height: 10%;
 
   /*disable selection*/
   -webkit-touch-callout: none;
