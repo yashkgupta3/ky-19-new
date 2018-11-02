@@ -20,9 +20,12 @@ nav {
   z-index: 999;
   width:100%;
   font-size:28px;
-
-  
 }
+
+nav h1{
+  font-size: 25px;	
+}
+
 nav::after {
   content: "";
   display: block;
