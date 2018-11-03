@@ -107,6 +107,7 @@ body {
   font-size: 25px;
   text-align: justify;
   font-family: 'Raleway', sans-serif;
+  text-align-last: center;
 }
 .content{
 	font-size:35px;
